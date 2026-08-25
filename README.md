@@ -1,3 +1,4 @@
 # ML_MODELS
-in this repo to give nine types of modes using similar dataset to train the models
+in this repo to give all learning (supervised,unsupervised)with its model
+
 
